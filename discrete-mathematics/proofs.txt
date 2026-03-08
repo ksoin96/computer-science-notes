@@ -1,1 +1,1 @@
-
+proofs are declaritive sentences that are either true or false
